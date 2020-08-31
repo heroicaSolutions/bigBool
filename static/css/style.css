@@ -1,0 +1,16 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.icon{
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.nav-bar-color{
+    background-color: #7F001E;
+}
+
+.title-color{
+    background-color: #40000F;
+}
